@@ -1,6 +1,6 @@
 module Ink
   module Rails
-    VERSION = "0.1.3"
-    INK3_VERSION = "3.0.0"
+    VERSION = "0.1.4"
+    INK3_VERSION = "3.1.10"
   end
 end
